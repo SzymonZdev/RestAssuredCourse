@@ -1,3 +1,5 @@
+package OldTests;
+
 import io.restassured.response.ValidatableResponse;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
